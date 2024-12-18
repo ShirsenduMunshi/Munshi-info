@@ -11,7 +11,7 @@ export default function Home() {
 
   const dirContent = fs.readdirSync("public/Content/blogs", "utf-8")
   const blogs = dirContent.map(file => {
-    const fileContent = fs.readFileSync(`public/Content/blogs/${file}`, "utf-8")
+    const fileContent = fs.readFileSync(`public/content/blogs/${file}`, "utf-8")
     const { data } = matter(fileContent)
     return data
   });

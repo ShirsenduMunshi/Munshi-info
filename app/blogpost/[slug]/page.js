@@ -44,7 +44,7 @@ async function getProcessedContent(content) {
 }
 
 export async function generateStaticParams() {
-  const postsDirectory = path.join(process.cwd(), 'public/Content/blogs')
+  const postsDirectory = path.join(process.cwd(), 'public/content/blogs')
   const filenames = fs.readdirSync(postsDirectory)
 
   // Generate static params from filenames
