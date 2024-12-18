@@ -56,7 +56,7 @@ export async function generateStaticParams() {
 export default async function BlogPost({ params }) {
   try {
     const { slug } = params
-    const postsDirectory = path.join(process.cwd(), 'public/Content/blogs')
+    const postsDirectory = path.join(process.cwd(), 'public/content/blogs')
     const fullPath = path.join(postsDirectory, `${slug}.md`)
 
     if (!fs.existsSync(fullPath)) {
