@@ -27,7 +27,7 @@ Access the blog here:
 
 ## 📷 Preview  
 
-![Blog Screenshot](https://via.placeholder.com/1200x600.png?text=Screenshot+of+Munshi+Info+Blog+App)  
+![Blog Screenshot]([https://via.placeholder.com/1200x600.png?text=Screenshot+of+Munshi+Info+Blog+App](https://github.com/ShirsenduMunshi/Munshi-info/blob/master/preview.png))  
 
 ---
 
