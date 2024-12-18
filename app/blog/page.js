@@ -6,9 +6,10 @@ import { Button } from "@/components/ui/button"
 import Link from 'next/link'
 import Image from 'next/image'
 
+
 async function getBlogPosts() {
   // Existing getBlogPosts function remains the same
-  const postsDirectory = path.join(process.cwd(), 'content/blogs')
+  const postsDirectory = path.join(process.cwd(), 'public/Content/blogs')
   const fileNames = fs.readdirSync(postsDirectory)
 
   const posts = fileNames.map(fileName => {
