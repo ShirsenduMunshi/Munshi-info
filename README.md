@@ -20,8 +20,8 @@
 
 Access the blog here:  
 
-- 🔗 **Primary URL**: [munshi-info.netlify.app](https://munshi-info.netlify.app)  
-- 🔗 **Alternate URL**: [munshi-info-wheat.vercel.app/](https://munshi-info-wheat.vercel.app/)
+- 🔗 **Primary URL**: [munshi-info-wheat.vercel.app/](https://munshi-info-wheat.vercel.app/)
+- 🔗 **Alternate URL**: [munshi-info.netlify.app](https://munshi-info.netlify.app)  
 
 ---
 
